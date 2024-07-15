@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68f11570-95f1-4e9e-96d9-5e5b572b0c7a" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/data.csv" afterDir="false" />
+    <list default="true" id="68f11570-95f1-4e9e-96d9-5e5b572b0c7a" name="Changes" comment="Create columns, image and description">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,10 +36,20 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/valko/PycharmProjects/portfolio"
+    "last_opened_file_path": "C:/Users/valko/PycharmProjects/portfolio/images"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\valko\PycharmProjects\portfolio\images" />
+      <recent name="C:\Users\valko\PycharmProjects\portfolio" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\valko\PycharmProjects\portfolio" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -64,11 +74,29 @@
       <option name="project" value="LOCAL" />
       <updated>1721041076044</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add data source and image files">
+      <option name="closed" value="true" />
+      <created>1721041592808</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1721041592808</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Create columns, image and description">
+      <option name="closed" value="true" />
+      <created>1721042547596</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1721042547596</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Add data source and image files" />
+    <MESSAGE value="Create columns, image and description" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create columns, image and description" />
   </component>
 </project>
